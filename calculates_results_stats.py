@@ -4,7 +4,7 @@
 #                                                                             
 # PROGRAMMER: Adrian P.
 # DATE CREATED: 2/22/2019                                 
-# REVISED DATE: 
+# REVISED DATE: 09/26/2019 
 # PURPOSE: Create a function calculates_results_stats that calculates the 
 #          statistics of the results of the programrun using the classifier's model 
 #          architecture to classify the images. This function will use the 
