@@ -3,7 +3,7 @@
 # */AIPND-revision/intropyproject-classify-pet-images/calculates_results_stats_hints.py
 #                                                                             
 # PROGRAMMER:
-# DATE CREATED:                                  
+# DATE CREATED: 2/22/2019                                 
 # REVISED DATE: 
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function calculates_results_stats that calculates the statistics
