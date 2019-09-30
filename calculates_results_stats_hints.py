@@ -4,7 +4,7 @@
 #                                                                             
 # PROGRAMMER:
 # DATE CREATED: 2/22/2019                                 
-# REVISED DATE: 
+# REVISED DATE: 9/30/2019
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function calculates_results_stats that calculates the statistics
 #          of the results of the programrun using the classifier's model 
