@@ -4,7 +4,7 @@
 #                                                                             
 # PROGRAMMER: Adrian P.
 # DATE CREATED: 2/21/2019                                
-# REVISED DATE: 
+# REVISED DATE: 10/3/2019
 # PURPOSE: Create a function classify_images that uses the classifier function 
 #          to create the classifier labels and then compares the classifier 
 #          labels to the pet image labels. This function inputs:
