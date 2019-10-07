@@ -3,7 +3,7 @@
 # */AIPND-revision/intropyproject-classify-pet-images/classify_images_hints.py
 #                                                                             
 # PROGRAMMER: 
-# DATE CREATED:                                 
+# DATE CREATED: 2/9/2019                                
 # REVISED DATE: 
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function classify_images that uses the classifier function 
