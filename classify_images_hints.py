@@ -33,10 +33,6 @@ def classify_images(images_dir, results_dic, model):
     a 'dalmatian'(pet label) and it will match to the classifier label 
     'dalmatian, coach dog, carriage dog' if the classifier function correctly 
     classified the pet images of dalmatians.
-     PLEASE NOTE: This function uses the classifier() function defined in 
-     classifier.py within this function. The proper use of this function is
-     in test_classifier.py Please refer to this program prior to using the 
-     classifier() function to classify images within this function 
      Parameters: 
       images_dir - The (full) path to the folder of images that are to be
                    classified by the classifier function (string)
