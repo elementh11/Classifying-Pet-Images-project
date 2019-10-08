@@ -48,6 +48,4 @@ def get_input_args():
     parser.add_argument('--dogfile', type = str, default = 'dognames.txt', 
                     help = 'text file with dog names')
     
-    # Replace None with parser.parse_args() parsed argument collection that 
-    # you created with this function 
     return parser.parse_args()
