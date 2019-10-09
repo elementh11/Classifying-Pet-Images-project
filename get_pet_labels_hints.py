@@ -58,12 +58,6 @@ def get_pet_labels(image_dir):
            # Creates temporary label variable to hold pet label name extracted 
            pet_label = ""
 
-           # TODO: 2a. BELOW REPLACE pass with CODE that will process each 
-           #          filename in the in_files list to extract the dog breed 
-           #          name from the filename. Recall that each filename can be
-           #          accessed by in_files[idx]. Be certain to place the 
-           #          extracted dog breed name in the variable pet_label 
-           #          that's created as an empty string ABOVE
            pass
 
            # If filename doesn't already exist in dictionary add it and it's
