@@ -20,11 +20,7 @@
 # Imports python modules
 from os import listdir
 
-# TODO 2: EDIT and ADD code BELOW to do the following that's stated in the 
-#       comments below that start with "TODO: 2" for the get_pet_labels function 
-#       Please be certain to replace None in the return statement with 
-#       results_dic dictionary that you create with this function
-# 
+ 
 def get_pet_labels(image_dir):
     """
     Creates a dictionary of pet labels (results_dic) based upon the filenames 
