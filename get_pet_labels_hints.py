@@ -76,6 +76,4 @@ def get_pet_labels(image_dir):
                print("** Warning: Duplicate files exist in directory:", 
                      in_files[idx])
  
-    # TODO 2b. Replace None with the results_dic dictionary that you created
-    # with this function
     return None
