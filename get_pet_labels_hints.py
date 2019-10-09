@@ -4,7 +4,7 @@
 #                                                                             
 # PROGRAMMER: 
 # DATE CREATED: 2/19/2019                                 
-# REVISED DATE: 
+# REVISED DATE: 10/9/2019
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function get_pet_labels that creates the pet labels from the image's
 #          filename. This function inputs: 
