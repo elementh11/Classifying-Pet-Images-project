@@ -62,15 +62,6 @@ def print_results(results_dic, results_stats_dic, model,
     # Prints summary statistics (percentages) on Model Run
     print(" ")
     for key in results_stats_dic:
-        # TODO: 6b. REPLACE pass with CODE that prints out all the percentages 
-        #           in the results_stats_dic dictionary. Recall that all 
-        #           percentages in results_stats_dic have 'keys' that start with 
-        #           the letter p. You will need to write a conditional 
-        #           statement that determines if the key starts with the letter
-        #           'p' and then you want to use a print statement to print 
-        #           both the key and the value. Remember the value is accessed 
-        #           by results_stats_dic[key]
-        #
         pass 
 
 
