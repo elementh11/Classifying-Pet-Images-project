@@ -4,7 +4,7 @@
 # PROGRAMMER: 
 # DATE CREATED: 02/08/2018                                  
 # REVISED DATE: 02/27/2018  - 
-# PURPOSE: Runs all three models to test which provides 'best' solution.
+# PURPOSE: Runs all three models to test which provides the 'best' solution.
 #          Please note output from each run has been piped into a text file.
 #
 # Usage: sh run_models_batch.sh    -- will run program from commandline within Project Workspace
